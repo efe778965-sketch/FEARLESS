@@ -1,0 +1,6 @@
+{
+  "name": "Premium Web Music Player",
+  "description": "Spotify-inspired premium web music player with local storage persistence, playlist categorization, search, custom keyboard shortcuts, and full-screen visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
